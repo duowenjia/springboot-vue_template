@@ -4,3 +4,7 @@ springboot+vue模板
 ```shell
 npm run serve
 ```
+## 运行springboot项目
+### 使用idea导入项目
+### 下载完依赖
+### 使用springboot运行环境运行
